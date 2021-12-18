@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "smart-repair-costs",
+  "name": "Smart Repair Costs",
+  "version": "$version",
+  "description": "Restricts repair cost increases to actual repairs.",
+  "license": "Apache-2.0",
+  "depends": {
+    "fabricloader": ">=0.12.11",
+    "java": ">=8"
+  },
+  "mixins": [
+    "mixins/smart-repair-costs/mixins.json"
+  ],
+  "authors": [
+    "Chloe Dawn"
+  ],
+  "contact": {
+    "homepage": "https://git.io/JD18j",
+    "sources": "https://git.io/JD18j",
+    "issues": "https://git.io/JD14f"
+  }
+}

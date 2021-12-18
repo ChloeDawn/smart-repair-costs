@@ -1,0 +1,10 @@
+{
+  "minVersion": "0.8",
+  "compatibilityLevel": "JAVA_8",
+  "required": true,
+  "package": "dev.sapphic.smartrepaircosts.mixin",
+  "mixins": [
+    "AnvilMenuMixin"
+  ],
+  "refmap": "mixins/smart-repair-costs/refmap.json"
+}
