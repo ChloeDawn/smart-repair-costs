@@ -7,7 +7,8 @@
   "license": "Apache-2.0",
   "depends": {
     "fabricloader": ">=0.12.11",
-    "java": ">=8"
+    "java": ">=8",
+    "minecraft": ">=1.17"
   },
   "mixins": [
     "mixins/smart-repair-costs/mixins.json"
@@ -16,8 +17,8 @@
     "Chloe Dawn"
   ],
   "contact": {
-    "homepage": "https://git.io/JD18j",
-    "sources": "https://git.io/JD18j",
-    "issues": "https://git.io/JD14f"
+    "homepage": "https://github.com/ChloeDawn/smart-repair-costs",
+    "sources": "https://github.com/ChloeDawn/smart-repair-costs/tree/$version",
+    "issues": "https://github.com/ChloeDawn/smart-repair-costs/issues"
   }
 }
